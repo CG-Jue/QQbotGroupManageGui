@@ -13,10 +13,6 @@
 - **多主题切换**：提供默认、蓝色、深色和浅绿色四种主题
 - **折叠式界面**：群信息和群成员列表区域可折叠，优化界面空间利用
 
-## 系统截图
-
-![系统截图](https://example.com/screenshots/screenshot.png)
-（请替换为实际截图）
 
 ## 安装依赖
 
@@ -78,7 +74,7 @@ python vimeGroup.py
 
 ## 系统要求
 
-- Python 3.6+
+- Python 3.6+ 及以上
 - PyQt5
 - 网络连接（用于API请求）
 
